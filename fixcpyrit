@@ -1,0 +1,7 @@
+cpyrit/_cpyrit_cpu.c:32:10: fatal error:
+
+apt-get install python-dev
+cd Pyrit
+python setup.py clean
+python setup.py build
+python setup.py install
